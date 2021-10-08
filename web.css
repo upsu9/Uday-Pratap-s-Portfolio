@@ -270,7 +270,18 @@ hr {
     font-weight: bolder;
 }
 
+.blogs{
 
+    height: 50%;
+    width: 50%;
+    text-align: center;
+    display: block;
+    align-items: center;
+    margin: auto;
+    font-size: large;
+    font-weight: bolder;
+    
+}
 
 
 
